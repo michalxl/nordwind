@@ -1,0 +1,1 @@
+The target of this project is to create an open-source client for the popular MMORPG EA Ultima Online (c).

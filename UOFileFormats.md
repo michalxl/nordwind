@@ -1,0 +1,14 @@
+  * artidx.mul
+  * art.mul
+  * anim.mul
+  * anim.idx
+  * animdata.mul
+  * gumpart.mul
+  * gumpidx.mul
+  * hues.mul
+  * map0.mul
+  * statics0.mul
+  * staidx0.mul
+  * texmaps.mul
+  * texmaps.idx
+  * tiledata.mul
